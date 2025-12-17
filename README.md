@@ -48,7 +48,7 @@ The following table describes the primary commands in the Targ language:
 
 ## Overview of the Compiler Structure
 The file structure of the compiler is as follows:
-
+```
 .
 ├── README.md
 ├── avlgen.py
@@ -92,6 +92,8 @@ The file structure of the compiler is as follows:
     ├── linker
     ├── main.cpp
     └── targ
+```
+
 
 The main components of the compiler are:
 
