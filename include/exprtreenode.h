@@ -1,4 +1,6 @@
 #pragma once
+#include "ulimitedrational.h"
+#include "symtable.h"
 #include <string>
 using namespace std;
 
